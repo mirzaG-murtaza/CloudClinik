@@ -1,0 +1,30 @@
+{
+    "diseases": [
+      { "name": "COVID-19", "code": "COVID19" },
+      { "name": "Influenza", "code": "FLU" },
+      { "name": "Tuberculosis", "code": "TB" },
+      { "name": "HIV/AIDS", "code": "HIV" },
+      { "name": "Malaria", "code": "MAL" },
+      { "name": "Ebola", "code": "EBL" },
+      { "name": "Zika Virus", "code": "ZKV" },
+      { "name": "Dengue Fever", "code": "DNG" },
+      { "name": "Cholera", "code": "CHL" },
+      { "name": "Measles", "code": "MSL" },
+      { "name": "Hepatitis", "code": "HEP" },
+      { "name": "Typhoid Fever", "code": "TYP" },
+      { "name": "Rabies", "code": "RBS" },
+      { "name": "Yellow Fever", "code": "YFV" },
+      { "name": "Polio", "code": "POL" },
+      { "name": "Leprosy", "code": "LPR" },
+      { "name": "Tetanus", "code": "TET" },
+      { "name": "Whooping Cough", "code": "WHC" },
+      { "name": "Smallpox", "code": "SMP" },
+      { "name": "Chickenpox", "code": "CPX" },
+      { "name": "Lyme Disease", "code": "LYM" },
+      { "name": "Meningitis", "code": "MNG" },
+      { "name": "Sleeping Sickness", "code": "SSK" },
+      { "name": "Schistosomiasis", "code": "SCH" },
+      { "name": "Chikungunya", "code": "CHK" }
+    ]
+  }
+  
