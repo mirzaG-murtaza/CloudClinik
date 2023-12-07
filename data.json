@@ -26,5 +26,152 @@
       { "name": "Schistosomiasis", "code": "SCH" },
       { "name": "Chikungunya", "code": "CHK" }
     ]
-  }
-  
+  },
+{
+    "complaints": [
+        { "name": "Headache", "code": "HDK" },
+        { "name": "Fever", "code": "FVR" },
+        { "name": "Cough", "code": "CGH" },
+        { "name": "Sore Throat", "code": "STR" },
+        { "name": "Stomachache", "code": "STA" },
+        { "name": "Back Pain", "code": "BKP" },
+        { "name": "Joint Pain", "code": "JTP" },
+        { "name": "Muscle Pain", "code": "MSP" },
+        { "name": "Fatigue", "code": "FTG" },
+        { "name": "Nausea", "code": "NSA" },
+        { "name": "Vomiting", "code": "VMT" },
+        { "name": "Diarrhea", "code": "DIA" },
+        { "name": "Shortness of Breath", "code": "SOB" },
+        { "name": "Chest Pain", "code": "CHP" },
+        { "name": "Dizziness", "code": "DZZ" },
+        { "name": "Insomnia", "code": "ISM" },
+        { "name": "Anxiety", "code": "ANX" },
+        { "name": "Depression", "code": "DEP" },
+        { "name": "Rash", "code": "RSH" },
+        { "name": "Allergies", "code": "ALG" },
+        { "name": "Frequent Urination", "code": "FUR" },
+        { "name": "Constipation", "code": "CST" },
+        { "name": "Bleeding", "code": "BLD" },
+        { "name": "Swelling", "code": "SWL" }
+    ]
+},
+
+{
+    "significant_signs": [
+        { "name": "High Fever", "code": "HSF" },
+        { "name": "Severe Pain", "code": "SVP" },
+        { "name": "Difficulty Breathing", "code": "DBR" },
+        { "name": "Chest Tightness", "code": "CTT" },
+        { "name": "Unconsciousness", "code": "UNC" },
+        { "name": "Seizures", "code": "SEZ" },
+        { "name": "Heavy Bleeding", "code": "HBL" },
+        { "name": "Loss of Consciousness", "code": "LOC" },
+        { "name": "Paralysis", "code": "PAR" },
+        { "name": "Severe Swelling", "code": "SSW" },
+        { "name": "Confusion", "code": "CFN" },
+        { "name": "Vision Loss", "code": "VIL" },
+        { "name": "Numbness or Tingling", "code": "NUT" },
+        { "name": "Difficulty Speaking", "code": "DSP" },
+        { "name": "Jaundice", "code": "JAN" },
+        { "name": "Rapid Heartbeat", "code": "RHB" },
+        { "name": "Severe Headache", "code": "SHD" },
+        { "name": "Loss of Balance", "code": "LOB" },
+        { "name": "Inability to Move Limbs", "code": "IML" },
+        { "name": "Severe Fatigue", "code": "SFT" },
+        { "name": "Fainting", "code": "FNT" },
+        { "name": "Burning Sensation", "code": "BRS" },
+        { "name": "High Blood Pressure", "code": "HBP" },
+        { "name": "Blurred Vision", "code": "BLV" }
+    ]
+},
+
+{
+    "procedures_treatments": [
+        { "name": "Physical Examination", "code": "PEX" },
+        { "name": "Blood Test", "code": "BTT" },
+        { "name": "X-ray", "code": "XRY" },
+        { "name": "CT Scan", "code": "CTS" },
+        { "name": "MRI", "code": "MRI" },
+        { "name": "Ultrasound", "code": "USN" },
+        { "name": "Endoscopy", "code": "EDS" },
+        { "name": "Biopsy", "code": "BPS" },
+        { "name": "Surgery", "code": "SRG" },
+        { "name": "Chemotherapy", "code": "CHM" },
+        { "name": "Radiation Therapy", "code": "RAD" },
+        { "name": "Physical Therapy", "code": "PTP" },
+        { "name": "Dental Cleaning", "code": "DCL" },
+        { "name": "Vaccination", "code": "VAC" },
+        { "name": "Medication Prescription", "code": "MED" },
+        { "name": "Physical Rehabilitation", "code": "PRE" },
+        { "name": "Counseling", "code": "CNS" },
+        { "name": "Dialysis", "code": "DLS" },
+        { "name": "Cardiac Catheterization", "code": "CAC" },
+        { "name": "Angioplasty", "code": "ANG" },
+        { "name": "Stent Placement", "code": "STP" },
+        { "name": "Organ Transplant", "code": "OTR" },
+        { "name": "Dental Extraction", "code": "DEX" },
+        { "name": "Skin Grafting", "code": "SGR" },
+        { "name": "Amputation", "code": "AMP" }
+    ]
+},
+
+{
+    "lab_tests_lab_sets": [
+        { "name": "Complete Blood Count (CBC)", "code": "CBC" },
+        { "name": "Blood Chemistry Panel", "code": "BCP" },
+        { "name": "Urinalysis", "code": "URA" },
+        { "name": "Lipid Profile", "code": "LIP" },
+        { "name": "Thyroid Function Tests", "code": "TFT" },
+        { "name": "Liver Function Tests", "code": "LFT" },
+        { "name": "Kidney Function Tests", "code": "KFT" },
+        { "name": "Hemoglobin A1c (HbA1c)", "code": "HBA" },
+        { "name": "Glucose Tolerance Test (GTT)", "code": "GTT" },
+        { "name": "Electrocardiogram (ECG or EKG)", "code": "ECG" },
+        { "name": "Chest X-ray", "code": "CXD" },
+        { "name": "Throat Culture", "code": "THC" },
+        { "name": "Stool Sample Analysis", "code": "SSA" },
+        { "name": "Pap Smear", "code": "PAP" },
+        { "name": "Prostate-Specific Antigen (PSA) Test", "code": "PSA" },
+        { "name": "Bone Density Scan", "code": "BDS" },
+        { "name": "C-Reactive Protein (CRP) Test", "code": "CRP" },
+        { "name": "HIV Test", "code": "HIV" },
+        { "name": "Hepatitis Panel", "code": "HEP" },
+        { "name": "Coagulation Profile", "code": "COP" },
+        { "name": "Allergy Testing", "code": "ALT" },
+        { "name": "Genetic Testing", "code": "GEN" },
+        { "name": "Drug Screening", "code": "DUG" },
+        { "name": "Microbiology Culture", "code": "MBC" },
+        { "name": "Tumor Marker Tests", "code": "TMT" }
+    ]
+},
+
+{
+    "medicines_disposables": [
+        { "name": "Aspirin", "code": "ASP" },
+        { "name": "Paracetamol (Acetaminophen)", "code": "PAR" },
+        { "name": "Ibuprofen", "code": "IBP" },
+        { "name": "Antibiotics", "code": "ANT" },
+        { "name": "Antacids", "code": "ACA" },
+        { "name": "Antihistamines", "code": "AHI" },
+        { "name": "Cough Syrup", "code": "COS" },
+        { "name": "Pain Relievers", "code": "PRE" },
+        { "name": "Insulin", "code": "INS" },
+        { "name": "Blood Pressure Medications", "code": "BPM" },
+        { "name": "Anticoagulants", "code": "ACO" },
+        { "name": "Anti-inflammatory Drugs", "code": "AID" },
+        { "name": "Diuretics", "code": "DIA" },
+        { "name": "Antifungal Medications", "code": "AFM" },
+        { "name": "Antiviral Medications", "code": "AVM" },
+        { "name": "Gauze Pads", "code": "GPD" },
+        { "name": "Bandages", "code": "BND" },
+        { "name": "Surgical Gloves", "code": "SGV" },
+        { "name": "Face Masks", "code": "FMK" },
+        { "name": "Disposable Syringes", "code": "DSY" },
+        { "name": "Cotton Balls", "code": "CBL" },
+        { "name": "Alcohol Swabs", "code": "ALS" },
+        { "name": "Sterile Needles", "code": "SND" },
+        { "name": "Tape (Medical)", "code": "TAP" },
+        { "name": "IV Catheters", "code": "IVC" }
+    ]
+}
+
