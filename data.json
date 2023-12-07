@@ -25,9 +25,8 @@
       { "name": "Sleeping Sickness", "code": "SSK" },
       { "name": "Schistosomiasis", "code": "SCH" },
       { "name": "Chikungunya", "code": "CHK" }
-    ]
-  },
-{
+    ],
+
     "complaints": [
         { "name": "Headache", "code": "HDK" },
         { "name": "Fever", "code": "FVR" },
@@ -53,11 +52,9 @@
         { "name": "Constipation", "code": "CST" },
         { "name": "Bleeding", "code": "BLD" },
         { "name": "Swelling", "code": "SWL" }
-    ]
-},
+    ],
 
-{
-    "significant_signs": [
+    "significantSigns": [
         { "name": "High Fever", "code": "HSF" },
         { "name": "Severe Pain", "code": "SVP" },
         { "name": "Difficulty Breathing", "code": "DBR" },
@@ -82,11 +79,9 @@
         { "name": "Burning Sensation", "code": "BRS" },
         { "name": "High Blood Pressure", "code": "HBP" },
         { "name": "Blurred Vision", "code": "BLV" }
-    ]
-},
+    ],
 
-{
-    "procedures_treatments": [
+    "proceduresTreatments": [
         { "name": "Physical Examination", "code": "PEX" },
         { "name": "Blood Test", "code": "BTT" },
         { "name": "X-ray", "code": "XRY" },
@@ -112,11 +107,9 @@
         { "name": "Dental Extraction", "code": "DEX" },
         { "name": "Skin Grafting", "code": "SGR" },
         { "name": "Amputation", "code": "AMP" }
-    ]
-},
+    ],
 
-{
-    "lab_tests_lab_sets": [
+    "labSets": [
         { "name": "Complete Blood Count (CBC)", "code": "CBC" },
         { "name": "Blood Chemistry Panel", "code": "BCP" },
         { "name": "Urinalysis", "code": "URA" },
@@ -142,11 +135,9 @@
         { "name": "Drug Screening", "code": "DUG" },
         { "name": "Microbiology Culture", "code": "MBC" },
         { "name": "Tumor Marker Tests", "code": "TMT" }
-    ]
-},
+    ],
 
-{
-    "medicines_disposables": [
+    "medicinesDisposables": [
         { "name": "Aspirin", "code": "ASP" },
         { "name": "Paracetamol (Acetaminophen)", "code": "PAR" },
         { "name": "Ibuprofen", "code": "IBP" },
