@@ -137,6 +137,29 @@
         { "name": "Tumor Marker Tests", "code": "TMT" }
     ],
 
+    "radiologyProcedures": [
+    { "name": "X-ray Imaging", "code": "XRI" },
+    { "name": "Magnetic Resonance Imaging (MRI)", "code": "MRI" },
+    { "name": "Computed Tomography (CT) Scan", "code": "CTS" },
+    { "name": "Ultrasound Imaging", "code": "USI" },
+    { "name": "Fluoroscopy", "code": "FLU" },
+    { "name": "Nuclear Medicine Scans", "code": "NMS" },
+    { "name": "Mammography", "code": "MAM" },
+    { "name": "Positron Emission Tomography (PET) Scan", "code": "PET" },
+    { "name": "Interventional Radiology Procedures", "code": "IRP" },
+    { "name": "Angiography", "code": "ANG" },
+    { "name": "Bone Densitometry (DEXA Scan)", "code": "DEX" },
+    { "name": "Radiation Therapy", "code": "RAD" },
+    { "name": "Chest X-ray", "code": "CXR" },
+    { "name": "Abdominal Ultrasound", "code": "AUS" },
+    { "name": "Brain MRI", "code": "BMR" },
+    { "name": "Cardiac CT Angiography", "code": "CTA" },
+    { "name": "Thyroid Scan", "code": "THS" },
+    { "name": "Joint X-ray", "code": "JXR" },
+    { "name": "Dental X-ray", "code": "DXR" },
+    { "name": "Barium Swallow", "code": "BSW" }
+],
+
     "medicinesDisposables": [
         { "name": "Aspirin", "code": "ASP" },
         { "name": "Paracetamol (Acetaminophen)", "code": "PAR" },
