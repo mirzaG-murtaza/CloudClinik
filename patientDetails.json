@@ -1,0 +1,84 @@
+{
+  "patientDetails": [
+    {
+      "Sr#": 1,
+      "MR#": "MR100001",
+      "Patient Name": "Patient 1",
+      "File Number": "FN80001",
+      "Relation": "Other",
+      "Reg Date": "2023-01-01",
+      "Latest Visit Date": "2023-12-01",
+      "Age": 21
+    },
+    {
+      "Sr#": 2,
+      "MR#": "MR100002",
+      "Patient Name": "Patient 2",
+      "File Number": "FN80002",
+      "Relation": "Self",
+      "Reg Date": "2023-01-02",
+      "Latest Visit Date": "2023-12-02",
+      "Age": 22
+    },
+    {
+      "Sr#": 3,
+      "MR#": "MR100003",
+      "Patient Name": "Patient 3",
+      "File Number": "FN80003",
+      "Relation": "Other",
+      "Reg Date": "2023-01-03",
+      "Latest Visit Date": "2023-12-03",
+      "Age": 23
+    },
+    {
+      "Sr#": 4,
+      "MR#": "MR100004",
+      "Patient Name": "Patient 4",
+      "File Number": "FN80004",
+      "Relation": "Self",
+      "Reg Date": "2023-01-04",
+      "Latest Visit Date": "2023-12-04",
+      "Age": 24
+    },
+    {
+      "Sr#": 5,
+      "MR#": "MR100005",
+      "Patient Name": "Patient 5",
+      "File Number": "FN80005",
+      "Relation": "Other",
+      "Reg Date": "2023-01-05",
+      "Latest Visit Date": "2023-12-05",
+      "Age": 25
+    },
+    {
+      "Sr#": 6,
+      "MR#": "MR100006",
+      "Patient Name": "Patient 6",
+      "File Number": "FN80006",
+      "Relation": "Self",
+      "Reg Date": "2023-01-06",
+      "Latest Visit Date": "2023-12-06",
+      "Age": 26
+    },
+    {
+      "Sr#": 7,
+      "MR#": "MR100007",
+      "Patient Name": "Patient 7",
+      "File Number": "FN80007",
+      "Relation": "Other",
+      "Reg Date": "2023-01-07",
+      "Latest Visit Date": "2023-12-07",
+      "Age": 27
+    },
+    {
+      "Sr#": 8,
+      "MR#": "MR100008",
+      "Patient Name": "Patient 8",
+      "File Number": "FN80008",
+      "Relation": "Self",
+      "Reg Date": "2023-01-08",
+      "Latest Visit Date": "2023-12-08",
+      "Age": 28
+    }
+  ]
+}
