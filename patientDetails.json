@@ -8,7 +8,10 @@
       "Relation": "Other",
       "Reg Date": "2023-01-01",
       "Latest Visit Date": "2023-12-01",
-      "Age": 21
+      "Age": 21,
+      "DOB": "2001-12-01",
+      "CNIC": "41101-1234567-1",
+      "Contact Number": "03001234567"
     },
     {
       "Sr#": 2,
@@ -18,7 +21,10 @@
       "Relation": "Self",
       "Reg Date": "2023-01-02",
       "Latest Visit Date": "2023-12-02",
-      "Age": 22
+      "Age": 22,
+      "DOB": "2001-01-15",
+      "CNIC": "41101-1234567-2",
+      "Contact Number": "03001234568"
     },
     {
       "Sr#": 3,
@@ -28,7 +34,10 @@
       "Relation": "Other",
       "Reg Date": "2023-01-03",
       "Latest Visit Date": "2023-12-03",
-      "Age": 23
+      "Age": 23,
+      "DOB": "2000-02-20",
+      "CNIC": "41101-1234567-3",
+      "Contact Number": "03001234569"
     },
     {
       "Sr#": 4,
@@ -38,7 +47,10 @@
       "Relation": "Self",
       "Reg Date": "2023-01-04",
       "Latest Visit Date": "2023-12-04",
-      "Age": 24
+      "Age": 24,
+      "DOB": "1999-03-25",
+      "CNIC": "41101-1234567-4",
+      "Contact Number": "03001234570"
     },
     {
       "Sr#": 5,
@@ -48,7 +60,10 @@
       "Relation": "Other",
       "Reg Date": "2023-01-05",
       "Latest Visit Date": "2023-12-05",
-      "Age": 25
+      "Age": 25,
+      "DOB": "1998-04-30",
+      "CNIC": "41101-1234567-5",
+      "Contact Number": "03001234571"
     },
     {
       "Sr#": 6,
@@ -58,7 +73,10 @@
       "Relation": "Self",
       "Reg Date": "2023-01-06",
       "Latest Visit Date": "2023-12-06",
-      "Age": 26
+      "Age": 26,
+      "DOB": "1997-06-05",
+      "CNIC": "41101-1234567-6",
+      "Contact Number": "03001234572"
     },
     {
       "Sr#": 7,
@@ -68,7 +86,10 @@
       "Relation": "Other",
       "Reg Date": "2023-01-07",
       "Latest Visit Date": "2023-12-07",
-      "Age": 27
+      "Age": 27,
+      "DOB": "1996-07-10",
+      "CNIC": "41101-1234567-7",
+      "Contact Number": "03001234573"
     },
     {
       "Sr#": 8,
@@ -78,7 +99,10 @@
       "Relation": "Self",
       "Reg Date": "2023-01-08",
       "Latest Visit Date": "2023-12-08",
-      "Age": 28
+      "Age": 28,
+      "DOB": "1995-08-15",
+      "CNIC": "41101-1234567-8",
+      "Contact Number": "03001234574"
     }
   ]
 }
