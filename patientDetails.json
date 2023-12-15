@@ -11,7 +11,12 @@
       "Age": 21,
       "DOB": "2001-12-01",
       "CNIC": "41101-1234567-1",
-      "Contact Number": "03001234567"
+      "Contact Number": "03001234567",
+      "Nationality": "Pakistani",
+      "Marital Status": "Single",
+      "Resident Status": "Yes",
+      "Insurance": "Cash",
+      "Mobile": "+92-300-0000001"
     },
     {
       "Sr#": 2,
@@ -24,7 +29,12 @@
       "Age": 22,
       "DOB": "2001-01-15",
       "CNIC": "41101-1234567-2",
-      "Contact Number": "03001234568"
+      "Contact Number": "03001234568",
+      "Nationality": "Pakistani",
+      "Marital Status": "Single",
+      "Resident Status": "Yes",
+      "Insurance": "Cash",
+      "Mobile": "+92-300-0000002"
     },
     {
       "Sr#": 3,
@@ -37,7 +47,12 @@
       "Age": 23,
       "DOB": "2000-02-20",
       "CNIC": "41101-1234567-3",
-      "Contact Number": "03001234569"
+      "Contact Number": "03001234569",
+      "Nationality": "Pakistani",
+      "Marital Status": "Single",
+      "Resident Status": "Yes",
+      "Insurance": "Cash",
+      "Mobile": "+92-300-0000003"
     },
     {
       "Sr#": 4,
@@ -50,7 +65,12 @@
       "Age": 24,
       "DOB": "1999-03-25",
       "CNIC": "41101-1234567-4",
-      "Contact Number": "03001234570"
+      "Contact Number": "03001234570",
+      "Nationality": "Pakistani",
+      "Marital Status": "Single",
+      "Resident Status": "Yes",
+      "Insurance": "Cash",
+      "Mobile": "+92-300-0000004"
     },
     {
       "Sr#": 5,
@@ -63,7 +83,12 @@
       "Age": 25,
       "DOB": "1998-04-30",
       "CNIC": "41101-1234567-5",
-      "Contact Number": "03001234571"
+      "Contact Number": "03001234571",
+      "Nationality": "Pakistani",
+      "Marital Status": "Single",
+      "Resident Status": "Yes",
+      "Insurance": "Cash",
+      "Mobile": "+92-300-0000005"
     },
     {
       "Sr#": 6,
@@ -76,7 +101,12 @@
       "Age": 26,
       "DOB": "1997-06-05",
       "CNIC": "41101-1234567-6",
-      "Contact Number": "03001234572"
+      "Contact Number": "03001234572",
+      "Nationality": "Pakistani",
+      "Marital Status": "Single",
+      "Resident Status": "Yes",
+      "Insurance": "Cash",
+      "Mobile": "+92-300-0000006"
     },
     {
       "Sr#": 7,
@@ -89,7 +119,12 @@
       "Age": 27,
       "DOB": "1996-07-10",
       "CNIC": "41101-1234567-7",
-      "Contact Number": "03001234573"
+      "Contact Number": "03001234573",
+      "Nationality": "Pakistani",
+      "Marital Status": "Single",
+      "Resident Status": "Yes",
+      "Insurance": "Cash",
+      "Mobile": "+92-300-0000007"
     },
     {
       "Sr#": 8,
@@ -102,7 +137,28 @@
       "Age": 28,
       "DOB": "1995-08-15",
       "CNIC": "41101-1234567-8",
-      "Contact Number": "03001234574"
+      "Contact Number": "03001234574",
+      "Nationality": "Pakistani",
+      "Marital Status": "Single",
+      "Resident Status": "Yes",
+      "Insurance": "Cash",
+      "Mobile": "+92-300-0000008"
+    },
+    {
+      "Sr#": 9,
+      "MR#": "9665000095",
+      "Patient Name": "New Patient",
+      "File Number": "FN80009",
+      "Relation": "Other",
+      "Reg Date": "2023-01-09",
+      "Latest Visit Date": "2023-12-09",
+      "Age": "1 years 3 months",
+      "DOB": "07/08/2022",
+      "Nationality": "Pakistani",
+      "Marital Status": "Single",
+      "Resident Status": "Yes",
+      "Insurance": "Cash",
+      "Mobile": "+92-323-4528088"
     }
   ]
 }
