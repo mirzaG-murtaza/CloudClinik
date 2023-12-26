@@ -1,7 +1,7 @@
 {
   "patientDetails": [
     {
-      "Sr#": 1,
+      "Citizen ID": "500000000049",
       "MR#": "MR100001",
       "Patient Name": "Patient 1",
       "File Number": "FN80001",
@@ -20,7 +20,7 @@
       "Mobile": "+92-323-4528088"
     },
     {
-      "Sr#": 2,
+      "Citizen ID": "500000000050",
       "MR#": "MR100002",
       "Patient Name": "Patient 2",
       "File Number": "FN80002",
@@ -39,7 +39,7 @@
       "Mobile": "+92-323-4528088"
     },
     {
-      "Sr#": 3,
+      "Citizen ID": "500000000051",
       "MR#": "MR100003",
       "Patient Name": "Patient 3",
       "File Number": "FN80003",
@@ -58,7 +58,7 @@
       "Mobile": "+92-323-4528088"
     },
     {
-      "Sr#": 4,
+      "Citizen ID": "500000000052",
       "MR#": "MR100004",
       "Patient Name": "Patient 4",
       "File Number": "FN80004",
@@ -77,7 +77,7 @@
       "Mobile": "+92-323-4528088"
     },
     {
-      "Sr#": 5,
+      "Citizen ID": "500000000053",
       "MR#": "MR100005",
       "Patient Name": "Patient 5",
       "File Number": "FN80005",
@@ -96,7 +96,7 @@
       "Mobile": "+92-323-4528088"
     },
     {
-      "Sr#": 6,
+      "Citizen ID": "500000000054",
       "MR#": "MR100006",
       "Patient Name": "Patient 6",
       "File Number": "FN80006",
@@ -115,7 +115,7 @@
       "Mobile": "+92-323-4528088"
     },
     {
-      "Sr#": 7,
+      "Citizen ID": "500000000055",
       "MR#": "MR100007",
       "Patient Name": "Patient 7",
       "File Number": "FN80007",
@@ -134,7 +134,7 @@
       "Mobile": "+92-323-4528088"
     },
     {
-      "Sr#": 8,
+      "Citizen ID": "500000000056",
       "MR#": "MR100008",
       "Patient Name": "Patient 8",
       "File Number": "FN80008",
@@ -153,7 +153,7 @@
       "Mobile": "+92-323-4528088"
     },
     {
-      "Sr#": 9,
+      "Citizen ID": "500000000057",
       "MR#": "MR100009",
       "Patient Name": "Patient 9",
       "File Number": "FN80009",
@@ -172,7 +172,7 @@
       "Mobile": "+92-323-4528088"
     },
     {
-      "Sr#": 10,
+      "Citizen ID": "500000000058",
       "MR#": "MR100010",
       "Patient Name": "Patient 10",
       "File Number": "FN80010",
